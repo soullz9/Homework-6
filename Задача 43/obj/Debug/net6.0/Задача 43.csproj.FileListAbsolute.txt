@@ -1,0 +1,15 @@
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\bin\Debug\net6.0\Задача 43.exe
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\bin\Debug\net6.0\Задача 43.deps.json
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\bin\Debug\net6.0\Задача 43.runtimeconfig.json
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\bin\Debug\net6.0\Задача 43.dll
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\bin\Debug\net6.0\Задача 43.pdb
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\obj\Debug\net6.0\Задача 43.csproj.AssemblyReference.cache
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\obj\Debug\net6.0\Задача 43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\obj\Debug\net6.0\Задача 43.AssemblyInfoInputs.cache
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\obj\Debug\net6.0\Задача 43.AssemblyInfo.cs
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\obj\Debug\net6.0\Задача 43.csproj.CoreCompileInputs.cache
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\obj\Debug\net6.0\Задача 43.dll
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\obj\Debug\net6.0\refint\Задача 43.dll
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\obj\Debug\net6.0\Задача 43.pdb
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\obj\Debug\net6.0\Задача 43.genruntimeconfig.cache
+C:\Users\lollo\OneDrive\Рабочий стол\C# Homework 6\Homework\Задача 43\obj\Debug\net6.0\ref\Задача 43.dll
